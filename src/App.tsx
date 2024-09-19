@@ -9,7 +9,7 @@ export function App() {
   return (
     <HashRouter>
       <div>
-        Zakar Handricken - CS5610.20595.202510
+        Zakar Handricken - CS5610.20595.202510<br />
         <a href="https://github.com/zakarh/kanbas-react-web-app">https://github.com/zakarh/kanbas-react-web-app</a>
         <Routes>
           <Route path="/" element={<Navigate to="Labs" />} />
